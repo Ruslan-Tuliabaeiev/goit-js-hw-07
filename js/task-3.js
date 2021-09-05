@@ -38,4 +38,3 @@ gallery.style.justifyContent = 'space-around';
 gallery.style.padding = '0';
 gallery.style.listStyle = 'none';
 
- // element.insertAdjacentHTML(position, string)
