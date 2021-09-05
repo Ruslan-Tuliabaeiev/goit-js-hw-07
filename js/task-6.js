@@ -7,7 +7,8 @@ function onBlurInputArea (){
     if(dataLength != input.value.length){
         input.classList.remove('valid');
         input.classList.add('invalid');
-    }else{
+    }
+    else{
         input.classList.remove('invalid');
         input.classList.add('valid');
     }
